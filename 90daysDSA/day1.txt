@@ -1,0 +1,7 @@
+was doing DSA from apna collage.
+Arrays
+String 
+Pointers
+are done.
+
+Now following Nishant Chahar's 90 Days DSA challange.

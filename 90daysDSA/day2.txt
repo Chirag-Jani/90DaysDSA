@@ -1,0 +1,13 @@
+Learned basics about recursion.
+
+defination and need,
+Base case,
+different outputs based on difference in calling recursive function
+
+done basic questions like,
+1. sum till nth term
+2. factorial of a number
+3. n raised to the power k
+4. print numbers in increasing order
+5. print numbers in decreasing order
+6. nth term of Fibonacci sequence 
