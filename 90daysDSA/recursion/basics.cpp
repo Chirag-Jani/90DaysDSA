@@ -26,15 +26,35 @@ int fact(int n)
 }
 
 // n raised to the power k
-int power(int n, int k)
+// int power(int n, int k)
+// {
+//     if (k == 0)
+//     {
+//         return 1;
+//     }
+//     int ans = n * power(n, k - 1);
+
+//     return ans;
+// }
+
+double power(double x, int n)
 {
-    if (k == 0)
+    if (n == 0)
     {
         return 1;
     }
-    int ans = n * power(n, k - 1);
 
-    return ans;
+    else if (n > 0)
+    {
+        double ans = x * power(x, n - 1);
+        return ans;
+    }
+
+    else
+    {
+        double ans = 1 / x * power(x, n + 1);
+        return ans;
+    }
 }
 
 // increasing - decreasing order
@@ -76,16 +96,17 @@ int fib(int n)
 
 int main()
 {
-    // int n, k;
-    // cin >> n >> k;
+    double n;
+    int k;
+    cin >> n >> k;
     // cout << sum(n) << endl;
     // cout << fact(n) << endl;
-    // cout << power(n, k) << endl;
+    cout << power(n, k) << endl;
 
-    int n;
-    cin >> n;
+    // int n;
+    // cin >> n;
     // inc(n);
     // cout << endl;
     // dec(n);
-    cout << fib(n) << endl;
+    // cout << fib(n) << endl;
 }

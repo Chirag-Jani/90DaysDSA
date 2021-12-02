@@ -1,0 +1,8 @@
+Started Learning Back Tracking.
+
+what is backtracking??
+how we use it??
+approach to solve problems.
+
+Question
+-> rat in a maze problem (rat_maze.cpp)
