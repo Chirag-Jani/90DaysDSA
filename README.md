@@ -47,3 +47,22 @@ link:- https://leetcode.com/problems/power-of-three/
 link:- https://leetcode.com/problems/power-of-four/
 
 Day 4 -
+Advance questions on recursion.
+
+1. Get all the permutations of a string. (permutations.cpp)
+2. Get all the paths to reach e from s.(countPaths.cpp)
+3. Get number of paths to reach e from s in a maze.(mazePaths.cpp)
+4. Tiling problem (tilingProblem.cpp)
+5. Pairing friends (friendsPairing.cpp)
+6. Knap sack problem (knapSack.cpp)
+
+Day 5 -
+Started learning about Back tracking.
+
+learned basics and did one questinon on "rat in a maze"
+
+Day 6 -
+
+learned more about backtracking and did few questions. 
+1. permutations of an array
+2. N - queen problem
