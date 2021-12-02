@@ -58,3 +58,11 @@ Advance questions on recursion.
 
 Day 5 -
 Started learning about Back tracking.
+
+learned basics and did one questinon on "rat in a maze"
+
+Day 6 -
+
+learned more about backtracking and did few questions. 
+1. permutations of an array
+2. N - queen problem
