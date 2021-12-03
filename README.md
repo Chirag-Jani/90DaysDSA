@@ -1,24 +1,25 @@
 # 90DaysDSA
 
-Day 1 - 
+Day 1 -
 I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulation Done.
 
-Day 2 - 
-Started following roadmap. Started Recursion with theory and basic questions (more details regarding questions and it's code are in above folder. 
+Day 2 -
+Started following roadmap. Started Recursion with theory and basic questions (more details regarding questions and it's code are in above folder.
 
 Questions:
+
 1. sum till nth term
 2. factorial of a number
 3. n raised to the power k
 4. print numbers in increasing order
 5. print numbers in decreasing order
-6. nth term of Fibonacci sequence 
+6. nth term of Fibonacci sequence
 
 Day 3 -
 Solved some more questions on Recursion to clear the fundamentals.
 
 1. Check if array is sorted or not. sortedArray.cpp
-2. First and last occurance of an element.  firstAndLast.cpp
+2. First and last occurance of an element. firstAndLast.cpp
 
 - 7problems
 
@@ -30,21 +31,19 @@ Solved some more questions on Recursion to clear the fundamentals.
 8. Print all subsequences. subSeq.cpp
 9. Print all subsequences with their ASCII code. subSeq_ascii.cpp
 
-
-
-leetcode questions - 
+leetcode questions -
 
 1. Fibonacci number (recursion\basics.cpp)
-link:- https://leetcode.com/problems/fibonacci-number/
+   link:- https://leetcode.com/problems/fibonacci-number/
 
 2. Power of 2 (powerOf2.cpp)
-link:- https://leetcode.com/problems/power-of-two/
+   link:- https://leetcode.com/problems/power-of-two/
 
 3. Power of 3 (powerOf3.cpp)
-link:- https://leetcode.com/problems/power-of-three/
+   link:- https://leetcode.com/problems/power-of-three/
 
 4. Power of 4 (powerOf4.cpp)
-link:- https://leetcode.com/problems/power-of-four/
+   link:- https://leetcode.com/problems/power-of-four/
 
 Day 4 -
 Advance questions on recursion.
@@ -63,6 +62,28 @@ learned basics and did one questinon on "rat in a maze"
 
 Day 6 -
 
-learned more about backtracking and did few questions. 
+learned more about backtracking and did few questions.
+
 1. permutations of an array
 2. N - queen problem
+
+Day 7 -
+
+Solved & Understood some more problems on recursion.
+
+-> Striver's SDE sheet questions
+
+1. Subset (watched explanation only, didn't code)
+2. Subset 2 (watched explanation only, didn't code)
+3. Rat in a maze but with Printing the direction in which the Rat moves. (watched explanation only, didn't code)
+
+-> Learned about C++ STL (from love babbar)
+
+1. Vectors
+2. List
+3. Set
+
+-> Making the recursive tree is the first step of solving problem.
+a. make recursive tree.
+b. write pseudo code.
+c. write the code.

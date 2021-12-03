@@ -1,0 +1,12 @@
+
+-> Striver's SDE sheet questions 
+1. Subset (watched explanation only, didn't code) 
+2. Subset 2 (watched explanation only, didn't code)
+3. Rat in a maze but with Printing the direction in which the Rat moves. (watched explanation only, didn't code)
+
+
+-> Learning about C++ STL (from love babbar)
+1. Vectors
+2. List
+3. Set
+
