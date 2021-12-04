@@ -1,0 +1,11 @@
+Solved more problems on Recursion and Backtracking
+
+1. Reverse a string (again because concept clearing ) (recursion\leetcode_problems\reverseString.cpp)
+
+2. Predict the Winner (leetcode - Medium) (predictWinner.cpp)
+link : https://leetcode.com/problems/predict-the-winner/
+-> recursive tree done
+-> pseudo code done
+-> getting some errors with vectors to tried with array (question not done yet)
+
+3. 
