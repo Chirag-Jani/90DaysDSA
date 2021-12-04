@@ -7,5 +7,3 @@ link : https://leetcode.com/problems/predict-the-winner/
 -> recursive tree done
 -> pseudo code done
 -> getting some errors with vectors to tried with array (question not done yet)
-
-3. 

@@ -1,5 +1,7 @@
 # 90DaysDSA
 
+To see more details about what I learned and how I learned, see day specific text file in the folder.
+
 Day 1 -
 I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulation Done.
 
@@ -87,3 +89,16 @@ Solved & Understood some more problems on recursion.
 a. make recursive tree.
 b. write pseudo code.
 c. write the code.
+
+Day 8 -
+
+-> Few more questions on Recursion
+
+1. Reverse a string (again because concept clearing ) (recursion\leetcode_problems\reverseString.cpp)
+
+2. Predict the Winner (leetcode - Medium) (predictWinner.cpp)
+   -> could not code entirely but developed recursive tree and logic as well.
+   link : https://leetcode.com/problems/predict-the-winner/
+
+Day 9 -
+->
