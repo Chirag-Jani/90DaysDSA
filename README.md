@@ -98,7 +98,8 @@ Day 8 -
 
 2. Predict the Winner (leetcode - Medium) (predictWinner.cpp)
    -> could not code entirely but developed recursive tree and logic as well.
-   link : https://leetcode.com/problems/predict-the-winner/
+  
+  link : https://leetcode.com/problems/predict-the-winner/
 
 Day 9 -
 ->
