@@ -110,4 +110,13 @@ Day 9 -
 
 2. Combinational Sum 2. (coded with reference) (combinationalSum2.cpp)
 
-=> Recursion & Backtracking
+Day 10 -
+
+4 questions on backtracking from Striver's SDE sheet.
+
+1. Permutations ( 2 approaches)
+2. N Queen problem
+3. Sudoku Solver
+4. M Coloring problem 
+
+-> Getting better idea about vectors and logic building with time and understanding approaches.
