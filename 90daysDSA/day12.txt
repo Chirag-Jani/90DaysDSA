@@ -1,0 +1,7 @@
+Solved more problems on Sub arrays and few on 2D arrays from Apna College.
+
+1. Maximum Circular SubArray sum.
+2. Pair Sum Problem.
+3. Find element in a 2D matrix.
+4. Matrix transpose.
+5. Matrix Multiplication.

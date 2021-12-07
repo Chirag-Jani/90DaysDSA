@@ -138,7 +138,9 @@ Day 10 -
 
 -> Getting better idea about vectors and logic building with time and understanding approaches.
 
--------------------------- 2 Parts ( Time & Space complexity, Recursion & Backtracking ) Done from Challange ---------------------------
+--------- 2 Parts ( Time & Space complexity, Recursion & Backtracking ) Done from Challange ---------
+
+---
 
 Day 11 -
 
@@ -160,4 +162,17 @@ Apna College questions:
 
 Day 12 -
 
-->
+-> Solved more problems on Sub arrays and few on 2D arrays from Apna College.
+
+1. Maximum Circular SubArray sum.
+2. Pair Sum Problem.
+3. Find element in a 2D matrix.
+4. Matrix transpose.
+5. Matrix Multiplication.
+
+-> Got overall idea of arrays and 2D arrays.
+-> Will start solving problems on array from tomorrow.
+
+---
+
+Day 13 -
