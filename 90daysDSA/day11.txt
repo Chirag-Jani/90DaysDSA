@@ -1,0 +1,14 @@
+--> Revise till 2D arrays and it's Challanges.
+
+Apna College questions:
+
+1. Max till i in an array.
+2. Record Breaking day (google kickstart question).
+3. Sum of all subarrays.
+4. subarray with a given sum (return starting and ending index).
+5. longest subarray length.
+6. First repeting element in an array.
+7. smallest missing positive integer.
+8. Print all subarrays.
+9. Maximum subarray sum. (bruteforce, optimised and kadane's algorithm)
+_________

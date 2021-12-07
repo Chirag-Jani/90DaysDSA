@@ -98,8 +98,8 @@ Day 8 -
 
 2. Predict the Winner (leetcode - Medium) (predictWinner.cpp)
    -> could not code entirely but developed recursive tree and logic as well.
-  
-  link : https://leetcode.com/problems/predict-the-winner/
+
+link : https://leetcode.com/problems/predict-the-winner/
 
 Day 9 -
 -> solved few questions from striver's SDE sheed (by watching his explanation)
@@ -122,7 +122,24 @@ Day 10 -
 
 -------------------------- 2 Parts ( Time & Space complexity, Recursion & Backtracking ) Done from Challange -----------------------------------
 
-
 Day 11 -
 
--> 
+-> Arrays, SubArrays, SubSequences and solved apna college problems.
+
+Apna College questions:
+
+1. Max till i in an array.
+2. Record Breaking day (google kickstart question).
+3. Sum of all subarrays.
+4. subarray with a given sum (return starting and ending index).
+5. longest subarray length.
+6. First repeting element in an array.
+7. smallest missing positive integer.
+8. Print all subarrays.
+9. Maximum subarray sum. (bruteforce, optimised and kadane's algorithm)
+
+---
+
+Day 12 -
+
+->
