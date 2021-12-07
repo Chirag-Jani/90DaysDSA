@@ -5,6 +5,8 @@ To see more details about what I learned and how I learned, see day specific tex
 Day 1 -
 I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulation Done.
 
+---
+
 Day 2 -
 Started following roadmap. Started Recursion with theory and basic questions (more details regarding questions and it's code are in above folder.
 
@@ -16,6 +18,8 @@ Questions:
 4. print numbers in increasing order
 5. print numbers in decreasing order
 6. nth term of Fibonacci sequence
+
+---
 
 Day 3 -
 Solved some more questions on Recursion to clear the fundamentals.
@@ -47,6 +51,8 @@ leetcode questions -
 4. Power of 4 (powerOf4.cpp)
    link:- https://leetcode.com/problems/power-of-four/
 
+---
+
 Day 4 -
 Advance questions on recursion.
 
@@ -57,10 +63,14 @@ Advance questions on recursion.
 5. Pairing friends (friendsPairing.cpp)
 6. Knap sack problem (knapSack.cpp)
 
+---
+
 Day 5 -
 Started learning about Back tracking.
 
 learned basics and did one questinon on "rat in a maze"
+
+---
 
 Day 6 -
 
@@ -68,6 +78,8 @@ learned more about backtracking and did few questions.
 
 1. permutations of an array
 2. N - queen problem
+
+---
 
 Day 7 -
 
@@ -90,6 +102,8 @@ a. make recursive tree.
 b. write pseudo code.
 c. write the code.
 
+---
+
 Day 8 -
 
 -> Few more questions on Recursion
@@ -101,6 +115,8 @@ Day 8 -
 
 link : https://leetcode.com/problems/predict-the-winner/
 
+---
+
 Day 9 -
 -> solved few questions from striver's SDE sheed (by watching his explanation)
 
@@ -109,6 +125,8 @@ Day 9 -
 1. Combinational Sum. (coded with reference) (combinationalSum.cpp)
 
 2. Combinational Sum 2. (coded with reference) (combinationalSum2.cpp)
+
+---
 
 Day 10 -
 
@@ -120,7 +138,7 @@ Day 10 -
 
 -> Getting better idea about vectors and logic building with time and understanding approaches.
 
--------------------------- 2 Parts ( Time & Space complexity, Recursion & Backtracking ) Done from Challange -----------------------------------
+-------------------------- 2 Parts ( Time & Space complexity, Recursion & Backtracking ) Done from Challange ---------------------------
 
 Day 11 -
 
