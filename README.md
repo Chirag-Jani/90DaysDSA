@@ -175,4 +175,23 @@ Day 12 -
 
 ---
 
-Day 13 -
+Day 13 - Solved 5 array problems on leetcode.
+
+1. Build array from permutation.
+   link: https://leetcode.com/problems/build-array-from-permutation/
+
+2. Concatenation of array.
+   link: https://leetcode.com/problems/concatenation-of-array/
+
+3. Final Value of Variable After Performing Operations.
+   link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+
+4. Running sum of 1'd array.
+   link: https://leetcode.com/problems/running-sum-of-1d-array/
+
+5. Richest Customer Wealth.
+   link: https://leetcode.com/problems/richest-customer-wealth/
+
+---
+
+Day 14 -
