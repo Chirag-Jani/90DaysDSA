@@ -194,4 +194,20 @@ Day 13 - Solved 5 array problems on leetcode.
 
 ---
 
-Day 14 -
+Day 14 - Solved More Problems On Leetcode.
+
+1. Shuffle the Array (Code is running well but getting runtime error) - NOT SUBMITTED
+   link: https://leetcode.com/problems/shuffle-the-array/
+
+2. Kids With the Greatest Number of Candies
+   link: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+
+3. Number of Good Pairs
+   link: https://leetcode.com/problems/number-of-good-pairs/
+
+4. How Many Numbers Are Smaller Than the Current Number
+   link: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
+---
+
+Day 15 -
