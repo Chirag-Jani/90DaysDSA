@@ -178,36 +178,71 @@ Day 12 -
 Day 13 - Solved 5 array problems on leetcode.
 
 1. Build array from permutation.
+
    link: https://leetcode.com/problems/build-array-from-permutation/
 
 2. Concatenation of array.
+
    link: https://leetcode.com/problems/concatenation-of-array/
 
 3. Final Value of Variable After Performing Operations.
+
    link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
 4. Running sum of 1'd array.
+
    link: https://leetcode.com/problems/running-sum-of-1d-array/
 
 5. Richest Customer Wealth.
+
    link: https://leetcode.com/problems/richest-customer-wealth/
 
 ---
 
 Day 14 - Solved More Problems On Leetcode.
 
-1. Shuffle the Array (Code is running well but getting runtime error) - NOT SUBMITTED
+1. Shuffle the Array (Code is running well but getting runtime error) - NOT SUBMITTED.
+
    link: https://leetcode.com/problems/shuffle-the-array/
 
-2. Kids With the Greatest Number of Candies
+2. Kids With the Greatest Number of Candies.
+
    link: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
-3. Number of Good Pairs
+3. Number of Good Pairs.
+
    link: https://leetcode.com/problems/number-of-good-pairs/
 
-4. How Many Numbers Are Smaller Than the Current Number
+4. How Many Numbers Are Smaller Than the Current Number.
+
    link: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
 ---
 
-Day 15 -
+Day 15 - Problem Solving on Leetcode Continues.
+
+1. Check If Two String Arrays are Equivalent.
+
+   link: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+2. Find the Highest Altitude.
+
+   link: https://leetcode.com/problems/find-the-highest-altitude/
+
+3. Flipping an Image
+
+   link: https://leetcode.com/problems/flipping-an-image/
+
+4. Find Greatest Common Divisor of Array (Learn to find GCD and then apply)
+
+   link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+
+5. Minimum Operations to Make the Array Increasing.
+
+   link: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+
+   - approach was good (did after seeing solution on discussion forum) - see the code and you'll understand.
+
+---
+
+Day 16 -

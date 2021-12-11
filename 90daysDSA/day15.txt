@@ -1,0 +1,19 @@
+Problem Solving on Leetcode Continues.
+
+1. Check If Two String Arrays are Equivalent
+    link: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+2. Find the Highest Altitude
+    link: https://leetcode.com/problems/find-the-highest-altitude/
+
+3. Flipping an Image
+    link: https://leetcode.com/problems/flipping-an-image/
+
+4. Find Greatest Common Divisor of Array (Learn to find GCD and then apply)
+    link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+
+
+5. Minimum Operations to Make the Array Increasing
+    link: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+
+    - approach was good (did after seeing solution on discussion forum) - see the code and you'll understand.
