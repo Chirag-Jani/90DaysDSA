@@ -245,4 +245,20 @@ Day 15 - Problem Solving on Leetcode Continues.
 
 ---
 
-Day 16 -
+Day 16 - Leetcode practice continues......
+
+1. Find N Unique Integers Sum up to Zero
+   link: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+
+2. Number of Students Doing Homework at a Given Time
+   link: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+
+3. Count Negative Numbers in a Sorted Matrix
+   link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+
+4. N-Repeated Element in Size 2N Array
+   link: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+
+---
+
+Day 17 -
