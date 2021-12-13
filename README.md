@@ -262,3 +262,17 @@ Day 16 - Leetcode practice continues......
 ---
 
 Day 17 -
+
+Leetcoding..... :)
+
+1. Sum of Unique Elements (saw solution :( )
+
+   link: https://leetcode.com/problems/sum-of-unique-elements/
+
+2. Smallest Index With Equal Value.
+
+   link: https://leetcode.com/problems/smallest-index-with-equal-value/
+
+3. Replace Elements with Greatest Element on Right Side.
+
+   link: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
