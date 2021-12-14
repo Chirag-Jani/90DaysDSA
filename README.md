@@ -276,3 +276,24 @@ Leetcoding..... :)
 3. Replace Elements with Greatest Element on Right Side.
 
    link: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+
+---
+
+Day 18 -
+
+Noticed that I am solving most of problems in O(n) and upper time complexity.
+Needed to learn Binery Search so that I can improve time complexity of quetions.
+
+Started learning about binary search from love babbar.
+
+learned about -
+
+- approach
+- how it is better?
+- when can we use?
+- some basic quetions like finding indexes in an array.
+- log(n) time complexity explanation.
+
+---
+
+Day 19 -
