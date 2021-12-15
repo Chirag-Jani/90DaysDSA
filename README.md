@@ -297,3 +297,15 @@ learned about -
 ---
 
 Day 19 -
+
+Solved some basic questions of binary search like -
+
+1. Finding 1st and Last occurance of an element in an array.
+2. total number of occurance of an element.
+3. Peak in a Mountain Array.
+
+- Also learned about Space complexity (as I continued from array and didn't learn about it.)
+  - when space complexity is affected?
+  - constant and variable space allocation.
+
+---
