@@ -1,0 +1,5 @@
+Solved some intermediat/advance questions on binary search.
+
+1. Find Pivot in an Array
+2. Search in a Sorted Rotated Array.
+3. Find Square Root using Binary Search.

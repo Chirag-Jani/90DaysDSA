@@ -309,3 +309,13 @@ Solved some basic questions of binary search like -
   - constant and variable space allocation.
 
 ---
+
+Day 20 -
+
+Solved some intermediat/advance questions on binary search.
+
+1. Find Pivot in an Array
+2. Search in a Sorted Rotated Array.
+3. Find Square Root using Binary Search.
+
+---
