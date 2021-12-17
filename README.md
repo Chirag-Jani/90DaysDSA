@@ -319,3 +319,17 @@ Solved some intermediat/advance questions on binary search.
 3. Find Square Root using Binary Search.
 
 ---
+
+Day 21 -
+
+Learned basic stack and queue and -
+
+Started learning Linked List.
+
+- create a node
+- add element at head
+- add element at tail
+- delete element from tail
+- display the Linked List
+
+---

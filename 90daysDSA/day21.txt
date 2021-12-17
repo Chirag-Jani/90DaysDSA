@@ -1,0 +1,9 @@
+Learned basic stack and queue and - 
+
+Started learning Linked List.
+
+- create a node
+- add element at head
+- add element at tail
+- delete element from tail
+- display the Linked List
