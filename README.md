@@ -333,3 +333,7 @@ Started learning Linked List.
 - display the Linked List
 
 ---
+
+Day 22 -
+
+Learned How to reverse a Linked List.
