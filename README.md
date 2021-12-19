@@ -337,3 +337,11 @@ Started learning Linked List.
 Day 22 -
 
 Learned How to reverse a Linked List.
+
+---
+
+Day 23 -
+
+Reverse K nodes of a Linked List.
+
+---
