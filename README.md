@@ -345,3 +345,10 @@ Day 23 -
 Reverse K nodes of a Linked List.
 
 ---
+
+Day 24 -
+
+- Detection and Removal Cycle in a Linked List
+- Basics of Doubly Linked List
+
+---
