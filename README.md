@@ -1,6 +1,7 @@
 # 90DaysDSA
 
-To see more details about what I learned and how I learned, see day specific text file in the folder.
+To see more details about what I learned and how I learned, see day-specific te
+xt file in the folder.
 
 Day 1 -
 I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulation Done.
@@ -350,5 +351,13 @@ Day 24 -
 
 - Detection and Removal Cycle in a Linked List
 - Basics of Doubly Linked List
+
+---
+
+Day 25 -
+
+- Detection and removal repeat
+- Coded Doubly Linked List
+- Append Last K node
 
 ---
