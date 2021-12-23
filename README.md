@@ -367,3 +367,10 @@ Day 26 -
 - Find Intersection point of 2 linked list
 
 ---
+
+Day 27 - 
+
+- Merge 2 sorted Linked List
+- Learned about circular Linked List
+
+---
