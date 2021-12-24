@@ -1,6 +1,8 @@
 # 90DaysDSA
 
-To see more details about what I learned and how I learned, see day-specific te
+To see more details about what I 
+
+nd how I learned, see day-specific te
 xt file in the folder.
 
 Day 1 -
@@ -372,5 +374,12 @@ Day 27 -
 
 - Merge 2 sorted Linked List
 - Learned about circular Linked List
+
+---
+
+Day 28 -
+
+- Put even position nodes in odd positions
+- stack and queues revision
 
 ---
