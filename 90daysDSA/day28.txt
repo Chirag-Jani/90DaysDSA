@@ -1,0 +1,2 @@
+- Put even position nodes in odd positions
+- stack and queues revision

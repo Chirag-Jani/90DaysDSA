@@ -1,0 +1,3 @@
+- Detection and removal repeat
+- Coded Doubly Linked List
+- Append Last K node
