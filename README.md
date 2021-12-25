@@ -386,4 +386,17 @@ Day 28 -
 
 Day 29 -
 
+revised some questions of stack and queue like,
+
+- infix to prefix
+- infix to postfix
+- reverse a stack
+- reverse a sentence using stack
+
+- queue implementation using stack
+
+---
+
+Day 30 -
+
 ---

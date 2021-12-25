@@ -1,0 +1,11 @@
+revised some questions of stack and queue like,
+- infix to prefix
+- infix to postfix
+- reverse a stack 
+- reverse a sentence using stack
+
+- queue implementation using stack
+
+NOTE:- I need to code more. I haven't been coding much (just learning theory mostly) after exams
+
+- GETTING BACK ON TRACK.
