@@ -399,4 +399,17 @@ revised some questions of stack and queue like,
 
 Day 30 -
 
+- Coded previous Linked List Questions
+  - even after odd
+  - finding intersection point of two points
+  - and others in Linked List folder
+
+---
+
+### I Was Coding and Learning without proper plan for each day and each topic till now.
+
+### Now, I am going to plan and divide each topics into days for proper understanding of how much I need to do to stay on the track.
+
+## Hoping for a Change now!! :)
+
 ---

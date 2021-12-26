@@ -1,0 +1,3 @@
+Coded all the Linked List Questions of Apna College.
+
+- the Questions are in Linked List folder.

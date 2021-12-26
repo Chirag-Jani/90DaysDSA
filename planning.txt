@@ -1,0 +1,63 @@
+For day-31 to day-45 👇
+
+Concepts to learn: 
+    1. Searching
+    2. Sorting
+        a. bubble sort
+        b. insertion sort
+        c. selection sort
+        d. merge sort
+        e. quick sort
+    3. Hashmaps
+    4. Trees
+    5. Heaps
+    6. Sliding Window (It's a Question)
+
+_____________________________
+
+As I already know Searching and Sorting, will start from Trees.
+
+20,21,22,46,47 : Sorting algorithms (5 videos)
+
+92-107 : Trees (16 videos)
+108-117 : BST (10 videos)
+118-128 : Questions, Set & Multisets (11 videos)
+    - 84, 124, 125 and 126 are Sliding Window Challanges
+
+129-134 : Heaps (6 videos)
+
+135-142 : Hashmaps (8 videos)
+
+________________________________________________________________________________________
+
+Day 31 - 33
+
+- Watch and Code Sorting algorithms (I should be able to code even in my sleep.)
+- See some videos on searching (maybe like Binary Search) and complete it.
+
+_____________________________
+
+Day 34 - 36
+
+- Complete Hashmaps (Watch videos and do some questions on Leetcode as well if possible.)
+    - 4 videos on day 35
+    - 4 videos on day 36
+    - solve some problems on Leetcode (at least 2)
+
+_____________________________
+
+Day 37 - 39
+
+Complete Heaps and Sliding Window
+    - watch 4 videos on day 37
+    - watch 2 videos + 1-2 questions of Heaps on Leetcode day 38
+    - learn Sliding Window on day 39
+
+_____________________________
+
+Day 40 - 45
+
+- Learn Trees on day-40 to day-42
+- Learn BST on day-43 and day-45
+
+(Learn Set & Multisets if time permits )
