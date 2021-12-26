@@ -1,9 +1,6 @@
 # 90DaysDSA
 
-To see more details about what I
-
-nd how I learned, see day-specific te
-xt file in the folder.
+To see more details about what I learned and how I learned, see day-specific text file in the folder.
 
 Day 1 -
 I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulation Done.
@@ -411,5 +408,3 @@ Day 30 -
 ### Now, I am going to plan and divide each topics into days for proper understanding of how much I need to do to stay on the track.
 
 ## Hoping for a Change now!! :)
-
----
