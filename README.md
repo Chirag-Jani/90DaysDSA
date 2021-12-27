@@ -408,3 +408,15 @@ Day 30 -
 ### Now, I am going to plan and divide each topics into days for proper understanding of how much I need to do to stay on the track.
 
 ## Hoping for a Change now!! :)
+
+Day 31 -
+
+Learned about 3 Sorting algorithms.
+
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+
+Coded as well :)
+
+---

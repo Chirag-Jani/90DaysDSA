@@ -1,0 +1,6 @@
+Learned about 3 Sorting algorithms.
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+
+Coded as well :)
