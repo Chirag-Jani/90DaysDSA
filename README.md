@@ -420,3 +420,13 @@ Learned about 3 Sorting algorithms.
 Coded as well :)
 
 ---
+
+Day 32 -
+
+Learned about:
+
+- Merge Sort
+- Quick Sort
+- Binary and Linear Search Done
+
+---

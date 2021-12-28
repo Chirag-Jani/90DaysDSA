@@ -1,0 +1,4 @@
+Learned 
+    - Merge Sort
+    - Quick Sort
+    - Binary and Linear Search Done
