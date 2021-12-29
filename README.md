@@ -1,6 +1,6 @@
 # 90DaysDSA
 
-To see more details about what I learned and how I learned, see day-specific text file in the folder.
+To see more details about what I learned and how I learned, see the day-specific text file in the folder.
 
 Day 1 -
 I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulation Done.
@@ -8,7 +8,7 @@ I was already doing DSA so, Basics of Arrays, Strings, Pointers, Bit Manipulatio
 ---
 
 Day 2 -
-Started following roadmap. Started Recursion with theory and basic questions (more details regarding questions and it's code are in above folder.
+Started following the roadmap. Started Recursion with theory and basic questions (more details regarding questions and their code are in the above folder.
 
 Questions:
 
@@ -17,15 +17,15 @@ Questions:
 3. n raised to the power k
 4. print numbers in increasing order
 5. print numbers in decreasing order
-6. nth term of Fibonacci sequence
+6. nth term of the Fibonacci sequence
 
 ---
 
 Day 3 -
 Solved some more questions on Recursion to clear the fundamentals.
 
-1. Check if array is sorted or not. sortedArray.cpp
-2. First and last occurance of an element. firstAndLast.cpp
+1. Check if an array is sorted or not. sortedArray.cpp
+2. First and last occurrence of an element. firstAndLast.cpp
 
 - 7problems
 
@@ -33,7 +33,7 @@ Solved some more questions on Recursion to clear the fundamentals.
 4. Move all 'x' to the end. moveX.cpp
 5. remove all duplicates from the string. removDups.cpp
 6. replace 'pi' with '3.14' in a string. replacePi.cpp
-7. tower of hanoi. toh.cpp
+7. tower of Hanoi. toh.cpp
 8. Print all subsequences. subSeq.cpp
 9. Print all subsequences with their ASCII code. subSeq_ascii.cpp
 
@@ -58,23 +58,23 @@ Advance questions on recursion.
 
 1. Get all the permutations of a string. (permutations.cpp)
 2. Get all the paths to reach e from s.(countPaths.cpp)
-3. Get number of paths to reach e from s in a maze.(mazePaths.cpp)
+3. Get the number of paths to reach e from s in a maze. (mazePaths.cpp)
 4. Tiling problem (tilingProblem.cpp)
 5. Pairing friends (friendsPairing.cpp)
-6. Knap sack problem (knapSack.cpp)
+6. Knapsack problem (knapSack.cpp)
 
 ---
 
 Day 5 -
-Started learning about Back tracking.
+Started learning about Backtracking.
 
-learned basics and did one questinon on "rat in a maze"
+learned basics and did one question on "rat in a maze"
 
 ---
 
 Day 6 -
 
-learned more about backtracking and did few questions.
+learned more about backtracking and did a few questions.
 
 1. permutations of an array
 2. N - queen problem
@@ -91,15 +91,15 @@ Solved & Understood some more problems on recursion.
 2. Subset 2 (watched explanation only, didn't code)
 3. Rat in a maze but with Printing the direction in which the Rat moves. (watched explanation only, didn't code)
 
--> Learned about C++ STL (from love babbar)
+-> Learned about C++ STL (from love Babbar)
 
 1. Vectors
 2. List
 3. Set
 
--> Making the recursive tree is the first step of solving problem.
-a. make recursive tree.
-b. write pseudo code.
+-> Making the recursive tree is the first step of solving a problem.
+a. make a recursive tree.
+b. write pseudocode.
 c. write the code.
 
 ---
@@ -108,17 +108,17 @@ Day 8 -
 
 -> Few more questions on Recursion
 
-1. Reverse a string (again because concept clearing ) (recursion\leetcode_problems\reverseString.cpp)
+1. Reverse a string (again because of concept clearing ) (recursion\leetcode_problems\reverseString.cpp)
 
 2. Predict the Winner (leetcode - Medium) (predictWinner.cpp)
    -> could not code entirely but developed recursive tree and logic as well.
 
-link : https://leetcode.com/problems/predict-the-winner/
+link: https://leetcode.com/problems/predict-the-winner/
 
 ---
 
 Day 9 -
--> solved few questions from striver's SDE sheed (by watching his explanation)
+-> solved a few questions from striver's SDE sheet (by watching his explanation)
 
 => Recursion
 
@@ -136,7 +136,7 @@ Day 10 -
 2. N Queen problem
 3. Sudoku Solver
 
--> Getting better idea about vectors and logic building with time and understanding approaches.
+-> Getting a better idea about vectors and logic building with time and understanding approaches.
 
 --------- 2 Parts ( Time & Space complexity, Recursion & Backtracking ) Done from Challange ---------
 
@@ -149,29 +149,29 @@ Day 11 -
 Apna College questions:
 
 1. Max till i in an array.
-2. Record Breaking day (google kickstart question).
+2. Record-Breaking day (google kickstart question).
 3. Sum of all subarrays.
 4. subarray with a given sum (return starting and ending index).
 5. longest subarray length.
-6. First repeting element in an array.
+6. First repeating element in an array.
 7. smallest missing positive integer.
 8. Print all subarrays.
-9. Maximum subarray sum. (bruteforce, optimised and kadane's algorithm)
+9. Maximum subarray sum. (brute force, optimized and kadane's algorithm)
 
 ---
 
 Day 12 -
 
--> Solved more problems on Sub arrays and few on 2D arrays from Apna College.
+-> Solved more problems on Sub arrays and a few on 2D arrays from Apna College.
 
 1. Maximum Circular SubArray sum.
 2. Pair Sum Problem.
-3. Find element in a 2D matrix.
+3. Find elements in a 2D matrix.
 4. Matrix transpose.
 5. Matrix Multiplication.
 
--> Got overall idea of arrays and 2D arrays.
--> Will start solving problems on array from tomorrow.
+-> Got an overall idea of arrays and 2D arrays.
+-> Will start solving problems on the array from tomorrow.
 
 ---
 
@@ -219,7 +219,7 @@ Day 14 - Solved More Problems On Leetcode.
 
 ---
 
-Day 15 - Problem Solving on Leetcode Continues.
+Day 15 - Problem-Solving on Leetcode Continues.
 
 1. Check If Two String Arrays are Equivalent.
 
@@ -241,7 +241,7 @@ Day 15 - Problem Solving on Leetcode Continues.
 
    link: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 
-   - approach was good (did after seeing solution on discussion forum) - see the code and you'll understand.
+   - approach was good (did after seeing the solution on a discussion forum) - see the code and you'll understand.
 
 ---
 
@@ -281,17 +281,17 @@ Leetcoding..... :)
 
 Day 18 -
 
-Noticed that I am solving most of problems in O(n) and upper time complexity.
-Needed to learn Binery Search so that I can improve time complexity of quetions.
+Noticed that I am solving most of the problems in O(n) and upper time complexity.
+Needed to learn Binary Search so that I can improve the time complexity of questions.
 
-Started learning about binary search from love babbar.
+Started learning about binary search from love Babbar.
 
 learned about -
 
 - approach
 - how it is better?
-- when can we use?
-- some basic quetions like finding indexes in an array.
+- when can we use it?
+- some basic questions like finding indexes in an array.
 - log(n) time complexity explanation.
 
 ---
@@ -300,11 +300,11 @@ Day 19 -
 
 Solved some basic questions of binary search like -
 
-1. Finding 1st and Last occurance of an element in an array.
-2. total number of occurance of an element.
+1. Finding 1st and Last occurrence of an element in an array.
+2. the total number of occurrences of an element.
 3. Peak in a Mountain Array.
 
-- Also learned about Space complexity (as I continued from array and didn't learn about it.)
+- Also learned about Space complexity (as I continued from an array and didn't learn about it.)
   - when space complexity is affected?
   - constant and variable space allocation.
 
@@ -312,7 +312,7 @@ Solved some basic questions of binary search like -
 
 Day 20 -
 
-Solved some intermediat/advance questions on binary search.
+Solved some intermediate/advanced questions on binary search.
 
 1. Find Pivot in an Array
 2. Search in a Sorted Rotated Array.
@@ -327,8 +327,8 @@ Learned basic stack and queue and -
 Started learning Linked List.
 
 - create a node
-- add element at head
-- add element at tail
+- add an element at the head
+- add an element at tail
 - delete element from tail
 - display the Linked List
 
@@ -357,7 +357,7 @@ Day 25 -
 
 - Detection and removal repeat
 - Coded Doubly Linked List
-- Append Last K node
+- Append the Last K node
 
 ---
 
@@ -398,14 +398,14 @@ Day 30 -
 
 - Coded previous Linked List Questions
   - even after odd
-  - finding intersection point of two points
-  - and others in Linked List folder
+  - finding the intersection point of two points
+  - and others in the Linked List folder
 
 ---
 
-### I Was Coding and Learning without proper plan for each day and each topic till now.
+### I Was Coding and Learning without a proper plan for each day and each topic till now.
 
-### Now, I am going to plan and divide each topics into days for proper understanding of how much I need to do to stay on the track.
+### Now, I am going to plan and divide each topic into days for a proper understanding of how much I need to do to stay on track.
 
 ## Hoping for a Change now!! :)
 
@@ -430,3 +430,9 @@ Learned about:
 - Binary and Linear Search Done
 
 ---
+
+Day 33 -
+
+- Just revised the concepts.
+
+--
