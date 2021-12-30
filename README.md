@@ -436,3 +436,9 @@ Day 33 -
 - Just revised the concepts.
 
 ---
+
+Day 34 -
+
+- Watched videos that I decided :)
+
+---
