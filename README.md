@@ -439,6 +439,13 @@ Day 33 -
 
 Day 34 -
 
-- Watched videos that I decided :)
+- Watched few of videos that I decided :)
+
+---
+
+Day 35 -
+
+- Completed the remaining 2 videos from yesterday. 
+(Hoping to get back tomorrow.)
 
 ---
