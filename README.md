@@ -449,3 +449,9 @@ Day 35 -
 (Hoping to get back tomorrow.)
 
 ---
+
+Day 36 - 
+
+- Watched rest of the videos.
+
+---
