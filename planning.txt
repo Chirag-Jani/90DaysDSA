@@ -46,18 +46,18 @@ Day 34 - 36
 
 _____________________________
 
-Day 37 - 39
+Day 37 - 42
 
-Complete Heaps and Sliding Window
-    - watch 4 videos on day 37
-    - watch 2 videos + 1-2 questions of Heaps on Leetcode day 38
-    - learn Sliding Window on day 39
+- Learn Trees on day-37 to day-39
+- Learn BST on day-40 and day-42
+
+(Learn Set & Multisets if time permits )
 
 _____________________________
 
-Day 40 - 45
+Day 43 - 45
 
-- Learn Trees on day-40 to day-42
-- Learn BST on day-43 and day-45
-
-(Learn Set & Multisets if time permits )
+Complete Heaps and Sliding Window
+    - watch 4 videos on day 43
+    - watch 2 videos + 1-2 questions of Heaps on Leetcode day 44
+    - learn Sliding Window on day 45

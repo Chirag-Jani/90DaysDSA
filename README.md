@@ -445,13 +445,17 @@ Day 34 -
 
 Day 35 -
 
-- Completed the remaining 2 videos from yesterday. 
-(Hoping to get back tomorrow.)
+- Completed the remaining 2 videos from yesterday.
+  (Hoping to get back tomorrow.)
 
 ---
 
-Day 36 - 
+Day 36 -
 
 - Watched rest of the videos.
+
+---
+
+Day 37 -
 
 ---
