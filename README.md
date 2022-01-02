@@ -458,4 +458,10 @@ Day 36 -
 
 Day 37 -
 
+- learned about:
+  - introduction to binary tree
+  - traversals
+  - building trees
+  - some questions on binary tree
+
 ---

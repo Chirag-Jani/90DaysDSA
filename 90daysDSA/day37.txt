@@ -1,0 +1,13 @@
+-> Started Learning Trees:
+    - Creating a tree,
+    - pre-Order traversal
+    - in-Order traversal
+    - post-Order traversal
+
+-> Build tree from given preOrder and inOrder sequence
+-> Build tree from given postOrder and inOrder sequence
+
+-> Level Order Traversal
+    - sum at Kth level of a binary tree.
+
+-> Count all the nodes and sum of all nodes in a binary tree
