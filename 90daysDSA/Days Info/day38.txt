@@ -1,0 +1,5 @@
+- height and diameter of a binary tree.
+- sum replacement problem on binary tree.
+- balanced height binary tree
+- right view of a binary tree
+- left view of a binary tree

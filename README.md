@@ -465,3 +465,15 @@ Day 37 -
   - some questions on binary tree
 
 ---
+
+Day 38 -
+
+- height and diameter of a binary tree.
+- sum replacement problem on binary tree.
+- balanced height binary tree
+- right view of a binary tree
+- left view of a binary tree
+
+---
+
+Day 39 -
