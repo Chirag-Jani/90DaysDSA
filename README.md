@@ -477,3 +477,7 @@ Day 38 -
 ---
 
 Day 39 -
+
+- Shortest distance between 2 nodes.
+
+---
