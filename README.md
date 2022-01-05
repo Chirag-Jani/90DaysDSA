@@ -481,3 +481,11 @@ Day 39 -
 - Shortest distance between 2 nodes.
 
 ---
+
+Day 40 -
+
+- Flaten a binary tree
+- nodes at distance K in binary tree
+
+---
+
