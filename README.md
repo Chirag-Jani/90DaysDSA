@@ -489,3 +489,9 @@ Day 40 -
 
 ---
 
+Day 41 - 
+
+(Skipping few videos as working in a job)
+- binary search tree introduction 
+
+---
