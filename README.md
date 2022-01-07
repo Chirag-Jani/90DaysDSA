@@ -495,3 +495,9 @@ Day 41 -
 - binary search tree introduction 
 
 ---
+
+Day 42 -
+
+- Search and delete in Binary Search Tree
+
+---
