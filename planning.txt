@@ -61,3 +61,22 @@ Complete Heaps and Sliding Window
     - watch 4 videos on day 43
     - watch 2 videos + 1-2 questions of Heaps on Leetcode day 44
     - learn Sliding Window on day 45
+
+________________________________________________________________________________________
+
+Things I skipped because of urgent work.
+
+- 106, 107, 110, 111, 113, 115, 116, 117 <- these are the videos skipped
+
+- Revise Hashmaps.
+
+- Code these questions:
+
+  - Flaten a binary tree
+  - nodes at distance K in binary tree
+  - Search and delete in Binary Search Tree
+  - Build Balanced BST from sorted array
+  - Zig Zag traversal of Binary Search Tree
+  - All of the Heaps
+
+- Learn Set & Multisets

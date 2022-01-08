@@ -491,8 +491,6 @@ Day 40 -
 
 Day 41 -
 
-(Skipping few videos as working in a job)
-
 - binary search tree introduction
 
 ---
@@ -504,5 +502,13 @@ Day 42 -
 ---
 
 Day 43 -
+
+- Build Balanced BST from sorted array
+- Zig Zag traversal of Binary Search Tree
+
+- Heaps intro
+- Heap STL
+- Median of running stream
+- Merge K sorted arrays
 
 ---
