@@ -148,7 +148,7 @@ Day 11 -
 
 Apna College questions:
 
-1. Max till i in an array.
+1. Max till I in an array.
 2. Record-Breaking day (google kickstart question).
 3. Sum of all subarrays.
 4. subarray with a given sum (return starting and ending index).
@@ -439,7 +439,7 @@ Day 33 -
 
 Day 34 -
 
-- Watched few of videos that I decided :)
+- Watched a few of the videos that I decided :)
 
 ---
 
@@ -452,7 +452,7 @@ Day 35 -
 
 Day 36 -
 
-- Watched rest of the videos.
+- Watched the rest of the videos.
 
 ---
 
@@ -485,7 +485,7 @@ Day 39 -
 Day 40 -
 
 - Flaten a binary tree
-- nodes at distance K in binary tree
+- nodes at distance K in a binary tree
 
 ---
 
@@ -510,5 +510,11 @@ Day 43 -
 - Heap STL
 - Median of running stream
 - Merge K sorted arrays
+
+---
+
+Day 44 -
+
+- Revision of Heap from Anuj Bhaiya as previous ones were sh*t.
 
 ---
