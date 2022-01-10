@@ -518,3 +518,9 @@ Day 44 -
 - Revision of Heap from Anuj Bhaiya as previous ones were sh*t.
 
 ---
+
+Day 45 -
+
+- Watched the Sliding Window Maximum problem of Striver and Anuj bhaiya.
+
+---
