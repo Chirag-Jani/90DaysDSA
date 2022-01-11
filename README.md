@@ -524,3 +524,10 @@ Day 45 -
 - Watched the Sliding Window Maximum problem of Striver and Anuj bhaiya.
 
 ---
+
+Day 46 -
+
+- Basics of graphs
+- BFS (Breadth first search)
+
+---
