@@ -528,6 +528,11 @@ Day 45 -
 Day 46 -
 
 - Basics of graphs
-- BFS (Breadth first search)
+- BFS (Breadth-first search)
 
 ---
+
+Day 47 -
+
+- previous revision
+- DFS (Depth-first search)
