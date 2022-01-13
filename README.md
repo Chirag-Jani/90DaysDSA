@@ -536,3 +536,11 @@ Day 47 -
 
 - previous revision
 - DFS (Depth-first search)
+
+---
+
+Day 48 -
+
+- Shortest path from source to all vertices - Dijkstra's
+
+---
