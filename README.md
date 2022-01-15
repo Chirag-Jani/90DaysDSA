@@ -543,12 +543,18 @@ Day 47 -
 
 Day 48 -
 
-- Shortest path from source to all vertices - Dijkstra's
+- The shortest path from source to all vertices - Dijkstra's
 
 ---
 
 Day 49 -
 
 - Just revision of graphs.
+
+---
+
+Day 50 -
+
+- Re learned Dijkstra's Algorithm.
 
 ---
