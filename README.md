@@ -1,5 +1,3 @@
-
-
 # 90DaysDSA
 
 To see more details about what I learned and how I learned, see the day-specific text file in the folder.
@@ -517,7 +515,7 @@ Day 43 -
 
 Day 44 -
 
-- Revision of Heap from Anuj Bhaiya as previous ones were sh*t.
+- Revision of Heap from Anuj Bhaiya as previous ones were sh\*t.
 
 ---
 
@@ -556,5 +554,16 @@ Day 49 -
 Day 50 -
 
 - Re learned Dijkstra's Algorithm.
+
+---
+
+Day 51 -
+
+- Cycle detaction in graph using DFS.
+- Cycle detaction in graph using BFS.
+
+---
+
+Day 52 -
 
 ---
