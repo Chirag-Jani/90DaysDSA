@@ -566,4 +566,11 @@ Day 51 -
 
 Day 52 -
 
+-Chech if the graph is Bipartite or not using BFS.
+-Chech if the graph is Bipartite or not using DFS.
+
+---
+
+Day 53 -
+
 ---
