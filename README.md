@@ -573,4 +573,13 @@ Day 52 -
 
 Day 53 -
 
+- cycle detection in directed graph using DFS.
+- Topological sort (DFS)
+
+---
+
+Day 54 -
+
+
+
 ---
