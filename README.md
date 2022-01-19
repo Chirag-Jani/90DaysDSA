@@ -580,6 +580,13 @@ Day 53 -
 
 Day 54 -
 
+- cycle detection in directed graph using BFS.
+- Topological sort (BFS)
+
+---
+
+Day 55 -
+
 
 
 ---
