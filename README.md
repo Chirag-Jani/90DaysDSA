@@ -590,3 +590,9 @@ Day 55 -
 - Shortest path in a undirected graph using unit waits.
 
 ---
+
+Day 56 -
+
+- Revision of previous concepts.
+
+---
