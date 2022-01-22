@@ -580,8 +580,8 @@ Day 53 -
 
 Day 54 -
 
-- cycle detection in directed graph using BFS.
-- Topological sort (BFS)
+- cycle detection in directed graph using BFS. (Kahn's Algorithm)
+- Topological sort (BFS) (Kahn's Algorithm)
 
 ---
 
@@ -598,5 +598,12 @@ Day 56 -
 ---
 
 Day 57 -
+
+- shortest path in directed acylic graph (DAG)
+- Minimum Spanning Tree explanation
+
+---
+
+Day 58 -
 
 ---
