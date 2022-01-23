@@ -567,7 +567,6 @@ Day 51 -
 Day 52 -
 
 -Chech if the graph is Bipartite or not using BFS.
-
 -Chech if the graph is Bipartite or not using DFS.
 
 ---
@@ -606,5 +605,8 @@ Day 57 -
 ---
 
 Day 58 -
+
+- prim's algorithm (minimum spanning tree)
+- c++ implimentation
 
 ---
