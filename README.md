@@ -610,3 +610,9 @@ Day 58 -
 - c++ implimentation
 
 ---
+
+Day 59 -
+
+- Kruskal's Algorithm
+
+---
