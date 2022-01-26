@@ -1,0 +1,2 @@
+- prim's algorithm (minimum spanning tree)
+- c++ implimentation  

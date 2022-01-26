@@ -1,12 +1,7 @@
-- 51 Days are done. Planning for Day 52 to Day 70.
-
-I HAVE TO FINISH DYNAMIC PROGRAMMING AND GRAPHS.
-
-- Gonna finish graph series till day 60 and then dp series for next 10 days.
-    - there are 28 videos in the graph serise and I have finished 10 till now.
-    - so 9 days, 18 videos (2 videos a day)
-
-- gonna finish graph first and then plan for dp (as it is being uploaded right now).
+- Normal DSU
+- Floyd Warshell
+- Kosaraju's algo
+- Bellman Ford
 
 ________________________________________________________________________________________
 

@@ -619,12 +619,14 @@ Day 59 -
 
 Day 60 -
 
-- revision
+- Broke the Streak :(
 
 ---
 
 Day 61 -
 
-- started learning DP
+started learning DP
+
+- Fibonacci using DP.
 
 ---

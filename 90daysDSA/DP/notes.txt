@@ -1,0 +1,18 @@
+Striver's DP seriese.
+- length:- 60 videos
+- topics? 
+    - Tabulation
+    - Memoization
+- The best ever (promised)
+
+DP1:-
+
+- We use a array to store the results of previous recursion calls so that we do not "Override the Subproblems" by doing recursive call to the same problem.
+
+- We use table or a Map to store the values.
+
+- Optimising space complexity is the most important thing to know here.
+
+- Solved Fibonacci seriese problem using DP (without recursion and even using less space complexity)
+
+DP2:-
