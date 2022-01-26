@@ -616,3 +616,15 @@ Day 59 -
 - Kruskal's Algorithm
 
 ---
+
+Day 60 -
+
+- revision
+
+---
+
+Day 61 -
+
+- started learning DP
+
+---
