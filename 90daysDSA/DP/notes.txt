@@ -5,6 +5,8 @@ Striver's DP seriese.
     - Memoization
 - The best ever (promised)
 
+______________________
+
 DP1:-
 
 - We use a array to store the results of previous recursion calls so that we do not "Override the Subproblems" by doing recursive call to the same problem.
@@ -13,6 +15,35 @@ DP1:-
 
 - Optimising space complexity is the most important thing to know here.
 
-- Solved Fibonacci seriese problem using DP (without recursion and even using less space complexity)
+Q. Fibonacci seriese problem using DP (without recursion and even using less space complexity)
+______________________
 
 DP2:-
+
+- How to understand that this is a DP problem??
+WHEN QUESTION GOES LIKE...
+
+    - return the total no. of ways
+    - there are multiple ways but return maximum or minimum
+    - whenever "Try all posible ways" comes, recursion comes.
+
+.. because in these type of problems we tend to apply recursion.
+
+- First try to figure out if the problem is recursion problem and then go to DP from that.
+
+While trying to solve prblems by DP,
+
+i. Try to represent the problem in forms of index.
+ii. do all possible stuffs on that index according to the problem statement.
+iii. sum up all the stuffs -> Count all ways
+iv. Min. of all stuffs -> find min.
+v. Max. of all stuffs -> find max.
+
+Q. Climbing staires problem
+ - this problem got converted into Fibonacci problem by applying the above steps, so didn't code it.
+
+______________________
+
+DP3:-
+
+______________________

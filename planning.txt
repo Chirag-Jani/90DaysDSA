@@ -21,3 +21,5 @@ Things I skipped because of urgent work.
   - All of the Heaps
 
 - Learn Set & Multisets
+
+- Gotta solve graph problems by coding it because I've just watched the videos.

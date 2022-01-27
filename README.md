@@ -630,3 +630,15 @@ started learning DP
 - Fibonacci using DP.
 
 ---
+
+Day 62 -
+
+- Climbing staires problem
+- this problem got converted into Fibonacci problem by applying the above steps, so didn't code it.
+- There are notes in the DP folder.
+
+---
+
+Day 63 -
+
+---
