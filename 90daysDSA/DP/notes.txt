@@ -46,4 +46,11 @@ ______________________
 
 DP3:-
 
+- there are a lot of things to take notes of (rewatch the 3rd tutorial for that)
+
+Q. Frog Jump using,
+    - Memoization
+    - Tabulation
+    - Space Optimization 
+
 ______________________

@@ -641,4 +641,15 @@ Day 62 -
 
 Day 63 -
 
+Frog Jump Question.
+
+1. recursion way.
+2. Memoization way.
+3. Tabulation way.
+4. space optimization way.
+
+---
+
+Day 64 -
+
 ---
