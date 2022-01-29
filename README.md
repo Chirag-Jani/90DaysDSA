@@ -652,4 +652,6 @@ Frog Jump Question.
 
 Day 64 -
 
+- Maximum sum of non adjacent elements 
+
 ---
