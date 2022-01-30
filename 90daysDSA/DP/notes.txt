@@ -3,6 +3,8 @@ Striver's DP seriese.
 - topics? 
     - Tabulation
     - Memoization
+    - Space Optimization
+
 - The best ever (promised)
 
 ______________________
@@ -53,4 +55,29 @@ Q. Frog Jump using,
     - Tabulation
     - Space Optimization 
 
+DP4:- 
+
+- not much but frog jump from K distance.
+
+______________________
+
+DP5:- 
+
+Q. Mamimum sum of non-adjacent elements (SubSequence logic)
+    - pick and not pick method
+
+- Just stick to the DP1 and DP2 concepts and you are good to go.
+
+DP6:- 
+    - nothing much but just slight change in DP5 question.
+    - House of Robber question of leetcode.
+
+______________________
+
+DP7:-
+
+Q. Ninja's Training
+    - insanely good question and the same explanation.
+    - found recursion tree a bit tricky but understood.
+    (Continue from 32:27 in video)
 ______________________

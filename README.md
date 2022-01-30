@@ -661,3 +661,10 @@ Day 65 -
 - Maximum sum of non adjacent elements.
 
 ---
+
+Day 66 -
+
+- Ninja's Training Problem (2D dp)
+  - tabulation
+
+---

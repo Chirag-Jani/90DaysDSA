@@ -1,0 +1,1 @@
+- Ninja's Training Question (2D DP)
