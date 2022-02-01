@@ -1,3 +1,5 @@
+
+
 # 90DaysDSA
 
 To see more details about what I learned and how I learned, see the day-specific text file in the folder.
@@ -666,5 +668,11 @@ Day 66 -
 
 - Ninja's Training Problem (2D dp)
   - tabulation
+
+---
+
+Day 67 -
+
+- Grid unique paths
 
 ---
