@@ -1,6 +1,6 @@
 Frog Jump Question.
 
 1. recursion way.
-2. Memoization way.
+2. Memoisation way.
 3. Tabulation way.
 4. space optimization way.

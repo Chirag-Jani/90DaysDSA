@@ -1,5 +1,3 @@
-
-
 # 90DaysDSA
 
 To see more details about what I learned and how I learned, see the day-specific text file in the folder.
@@ -646,7 +644,7 @@ Day 63 -
 Frog Jump Question.
 
 1. recursion way.
-2. Memoization way.
+2. Memoisation way.
 3. Tabulation way.
 4. space optimization way.
 
@@ -673,6 +671,12 @@ Day 66 -
 
 Day 67 -
 
-- Grid unique paths
+- Grid unique paths (Approach and Memoisation)
+
+---
+
+Day 68 -
+
+- Grid unique paths (Tabulation)
 
 ---

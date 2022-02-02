@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// MEMOIZATION STUFF
+// Memoisation STUFF
 
 int f(int index, vector<int> &heights, vector<int> dp)
 {

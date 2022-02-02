@@ -2,7 +2,7 @@ Striver's DP seriese.
 - length:- 60 videos
 - topics? 
     - Tabulation
-    - Memoization
+    - Memoisation
     - Space Optimization
 
 - The best ever (promised)
@@ -51,7 +51,7 @@ DP3:-
 - there are a lot of things to take notes of (rewatch the 3rd tutorial for that)
 
 Q. Frog Jump using,
-    - Memoization
+    - Memoisation
     - Tabulation
     - Space Optimization 
 

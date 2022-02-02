@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// MEMOIZATION
+// Memoisation
 int f(int ind, vector<int> &nums, vector<int> &dp)
 {
     if (ind == 0)
