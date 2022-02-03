@@ -80,4 +80,35 @@ Q. Ninja's Training
     - insanely good question and the same explanation.
     - found recursion tree a bit tricky but understood.
     (Continue from 32:27 in video)
+
+______________________
+
+DP8:-
+
+Q. DP on grids.
+
+Any dp question can be solved by,
+1. Interpret stuff in terms of Indexes.
+2. Get the base cases
+3. Write recursion (Do all stuffs on that)
+4. Now Memoisation..
+    I. make a dp array (1D or 2D)
+    II. save answers in that (pre-define the base case in the dp array)
+    III. check if Subproblem is already solved in the dp array and return the answer if solved.
+5. Now Tabulation..
+    i. Run the for-loop from 0 to n.
+    ii. copy the recurrance from Memoisation
+6. Now Space Optimization..
+    i. see if we are using previous data (n-1) 
+    ii. store that in prev and cur variables.
+    iii. swap the prev == curr at the end of the for-loop
+
+______________________
+
+DP9:-
+
+- Maze path problem
+
+- It can be easily solved by the DP8 method with a bit of changes
+
 ______________________

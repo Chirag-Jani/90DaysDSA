@@ -680,3 +680,10 @@ Day 68 -
 - Grid unique paths (Tabulation)
 
 ---
+
+Day 69 -
+
+- Maze path problem.
+  - can be exectly solved by the dp on grid and some minor changes.
+
+---
