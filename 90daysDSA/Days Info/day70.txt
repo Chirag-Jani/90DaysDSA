@@ -1,0 +1,6 @@
+- Finished previous remaining concepts of graph.
+
+- Normal DSU
+- Floyd Warshell
+- Kosaraju's algo
+- Bellman Ford

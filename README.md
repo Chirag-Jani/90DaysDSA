@@ -687,3 +687,18 @@ Day 69 -
   - can be exectly solved by the dp on grid and some minor changes.
 
 ---
+
+Day 70 -
+
+- Finished previous remaining concepts of graph.
+
+- Normal DSU
+- Floyd Warshell
+- Kosaraju's algo
+- Bellman Ford
+
+---
+
+Day 71 -
+
+---
