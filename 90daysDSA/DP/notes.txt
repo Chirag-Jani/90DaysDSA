@@ -112,3 +112,25 @@ DP9:-
 - It can be easily solved by the DP8 method with a bit of changes
 
 ______________________
+
+DP10:-
+
+- Minimum path sum in a matrix
+- good question to solve and a bit of different approach.
+
+solution is, 
+    - get all the paths and return minimum of that
+    - bottom up approach in starting with recursion (base case was i==0 && j==0 then return grid[i][j])
+    - then created a dp to convert into Memoisation
+    - then run the for loops for tabulation (from 0 to m and n - nested loops)
+    - then took 2 arrays to store the current and previous path sum and then swap in order to space optimize the solution
+
+______________________
+
+DP11:-
+
+- Triangle
+
+______________________
+
+
