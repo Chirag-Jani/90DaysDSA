@@ -704,3 +704,9 @@ Day 71 -
 - DP on grid question (Minimum path sum in a matrix)
 
 ---
+
+Day 72 -
+
+- Triangle question of DP.
+
+---

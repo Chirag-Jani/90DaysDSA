@@ -129,7 +129,9 @@ ______________________
 
 DP11:-
 
-- Triangle
+- Triangle question.
+    - learned that Tabulation is always reverse of the recursion we write.
+    - after writing recurrance everything is cakewalk.
 
 ______________________
 
