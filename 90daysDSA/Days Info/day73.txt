@@ -1,0 +1,6 @@
+- https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+quite good question.
+got the answer in unsorted manner according to the power.
+
+have to learn about how to solve vector of pairs according to the second value of pair.

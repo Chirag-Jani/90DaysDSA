@@ -710,3 +710,11 @@ Day 72 -
 - Triangle question of DP.
 
 ---
+
+Day 73 -
+
+- Leetcode medium: https://leetcode.com/problems/sort-integers-by-the-power-value/
+- solved 80% of the problem.
+- sorting remains.
+
+---
