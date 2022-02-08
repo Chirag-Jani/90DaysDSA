@@ -718,3 +718,10 @@ Day 73 -
 - sorting remains.
 
 ---
+
+Day 74 -
+
+- solved few questions on leetcode of recursion and others.
+- I already know the oops, so just doing problem solving right now.
+
+---
