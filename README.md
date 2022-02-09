@@ -725,3 +725,9 @@ Day 74 -
 - I already know the oops, so just doing problem solving right now.
 
 ---
+
+Day 75 -
+
+- Revised OOPs.
+
+---
