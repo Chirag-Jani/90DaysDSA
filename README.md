@@ -731,3 +731,10 @@ Day 75 -
 - Revised OOPs.
 
 ---
+
+Day 75 -
+
+- Gonna revise topics as most of DSA is over and College exams are in 3 days as well..
+- Revised Bubble and Insertion sort.
+
+---
