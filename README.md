@@ -738,3 +738,9 @@ Day 75 -
 - Revised Bubble and Insertion sort.
 
 ---
+
+Day 76 -
+
+- Learned about Vectors in C++.
+
+---
