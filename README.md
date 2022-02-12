@@ -732,15 +732,21 @@ Day 75 -
 
 ---
 
-Day 75 -
+Day 76 -
 
 - Gonna revise topics as most of DSA is over and College exams are in 3 days as well..
 - Revised Bubble and Insertion sort.
 
 ---
 
-Day 76 -
+Day 77 -
 
 - Learned about Vectors in C++.
+
+---
+
+Day 78 -
+
+- College exam preparation.
 
 ---
