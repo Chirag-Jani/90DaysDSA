@@ -1,15 +1,11 @@
-- Normal DSU
-- Floyd Warshell
-- Kosaraju's algo
-- Bellman Ford
-
 ________________________________________________________________________________________
 
 Things I skipped because of urgent work.
 
-- 106, 107, 110, 111, 113, 115, 116, 117 <- these are the videos skipped
+- Learn Hashmaps
+- Pairs
 
-- Revise Hashmaps.
+- 106, 107, 110, 111, 113, 115, 116, 117 <- these are the videos skipped
 
 - Code these questions:
 

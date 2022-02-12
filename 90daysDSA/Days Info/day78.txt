@@ -1,1 +1,4 @@
 - College exam preparation.
+
+- 3 question of leetcode Weekly Contest 277
+- Have to learn Hashmaps and Pairs

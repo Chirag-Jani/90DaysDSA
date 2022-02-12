@@ -748,5 +748,8 @@ Day 77 -
 Day 78 -
 
 - College exam preparation.
+- 3 question of leetcode Weekly Contest 277 (1 easy, 2 medium)
+
+- Have to learn hashmaps and Pairs
 
 ---
