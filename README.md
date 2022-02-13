@@ -753,3 +753,9 @@ Day 78 -
 - Have to learn hashmaps and Pairs
 
 ---
+
+Day 79 -
+
+- Hashmaps and Hashing
+
+---
