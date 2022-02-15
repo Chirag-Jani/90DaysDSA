@@ -765,3 +765,9 @@ Day 80 -
 - one question on leetcode (easy)
 
 ---
+
+Day 81 -
+
+- Basics of bit manipulation
+
+---
