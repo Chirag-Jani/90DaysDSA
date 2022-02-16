@@ -771,3 +771,9 @@ Day 81 -
 - Basics of bit manipulation
 
 ---
+
+Day 82 -
+
+- Exam preparation
+
+---
