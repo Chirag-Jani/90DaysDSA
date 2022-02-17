@@ -777,3 +777,9 @@ Day 82 -
 - Exam preparation
 
 ---
+
+Day 83 -
+
+- Exam preparation
+
+---
