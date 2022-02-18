@@ -783,3 +783,9 @@ Day 83 -
 - Exam preparation
 
 ---
+
+Day 84 -
+
+- Leetcode easy question on bit manipulation 
+
+---
