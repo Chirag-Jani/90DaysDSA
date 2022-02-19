@@ -798,3 +798,12 @@ Day 85 -
   - another easy question of random contest.
 
 ---
+
+Day 86 -
+
+- Solved 3 medium level problems on leetcode.
+  - one was the one that I couldn't solve yesterday (medium level)
+  - nth power of x using recursion
+  - finding possibility
+
+---
