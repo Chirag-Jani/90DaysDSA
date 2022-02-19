@@ -786,6 +786,15 @@ Day 83 -
 
 Day 84 -
 
-- Leetcode easy question on bit manipulation 
+- Nothing
+
+---
+
+Day 85 -
+
+- Gave leetcode Biweekly Contest 72.
+  - got the easy one accepted.
+  - medium given test cases passed (getting an error while submitting).
+  - another easy question of random contest.
 
 ---

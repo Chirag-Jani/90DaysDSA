@@ -1,0 +1,4 @@
+- Gave leetcode Biweekly Contest 72.
+  - got the easy one accepted.
+  - medium given test cases passed (getting an error while submitting).
+  - another easy question of random contest.
