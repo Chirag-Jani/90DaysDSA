@@ -807,3 +807,9 @@ Day 86 -
   - finding possibility
 
 ---
+
+Day 86 -
+
+- Nothing 
+
+---
