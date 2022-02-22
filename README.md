@@ -810,6 +810,13 @@ Day 86 -
 
 Day 87 -
 
-- Nothing 
+- Nothing
+
+---
+
+Day 88 -
+
+- one question of binary tree (leetcode easy)
+- logic was right but syntax issues (had to see the solution)
 
 ---
