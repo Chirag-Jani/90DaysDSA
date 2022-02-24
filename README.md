@@ -820,3 +820,15 @@ Day 88 -
 - logic was right but syntax issues (had to see the solution)
 
 ---
+
+Day 89 -
+
+- 3 binary tree questions (traversal)
+
+---
+
+Day 90 -
+
+- nothing
+
+---
