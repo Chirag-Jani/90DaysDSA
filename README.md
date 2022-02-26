@@ -820,3 +820,12 @@ Day 88 -
 - logic was right but syntax issues (had to see the solution)
 
 ---
+
+Day 89 -
+
+- 3 basic questions of binary tree.
+  - inorder
+  - preorder
+  - postorder traversal
+
+---

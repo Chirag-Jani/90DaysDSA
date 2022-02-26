@@ -1,0 +1,4 @@
+3 basic questions of binary tree.
+    - inorder
+    - preorder
+    - postorder traversal
