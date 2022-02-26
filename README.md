@@ -823,9 +823,19 @@ Day 88 -
 
 Day 89 -
 
+<<<<<<< HEAD
 - 3 basic questions of binary tree.
   - inorder
   - preorder
   - postorder traversal
+=======
+- 3 binary tree questions (traversal)
+
+---
+
+Day 90 -
+
+- nothing
+>>>>>>> 66d7f2c3e856a454908dbca1c57c9b5b896d1b84
 
 ---
